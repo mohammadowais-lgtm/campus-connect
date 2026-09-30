@@ -196,3 +196,5 @@ The platform is being actively improved with additional matching, communication,
 **One real connection.
 Thirty minutes.
 Every day.**
+<img width="610" height="922" alt="image" src="https://github.com/user-attachments/assets/47962af2-bbae-4b98-869d-984018acfc6a" />
+
